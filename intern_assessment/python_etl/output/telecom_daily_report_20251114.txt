@@ -1,0 +1,126 @@
+=== TELECOM DAILY ETL REPORT - 2025-11-14 17:02:25 ===
+
+CUSTOMER DATA STATISTICS:
+  - Total customers processed: 19
+  - Active customers: 14
+
+USAGE DATA STATISTICS:
+  - Total usage records: 28
+  - Total data usage (MB): 45.5
+
+USAGE DATA STATISTICS:
+  - Total usage records: 28
+  - Total data usage (MB): 123.7
+
+USAGE DATA STATISTICS:
+  - Total usage records: 28
+  - Total data usage (MB): 146.8
+
+USAGE DATA STATISTICS:
+  - Total usage records: 28
+  - Total data usage (MB): 303.6
+
+USAGE DATA STATISTICS:
+  - Total usage records: 28
+  - Total data usage (MB): 392.90000000000003
+
+USAGE DATA STATISTICS:
+  - Total usage records: 28
+  - Total data usage (MB): 427.6
+
+USAGE DATA STATISTICS:
+  - Total usage records: 28
+  - Total data usage (MB): 595.5
+
+USAGE DATA STATISTICS:
+  - Total usage records: 28
+  - Total data usage (MB): 687.9
+
+USAGE DATA STATISTICS:
+  - Total usage records: 28
+  - Total data usage (MB): 755.0
+
+USAGE DATA STATISTICS:
+  - Total usage records: 28
+  - Total data usage (MB): 898.6
+
+USAGE DATA STATISTICS:
+  - Total usage records: 28
+  - Total data usage (MB): 927.5
+
+USAGE DATA STATISTICS:
+  - Total usage records: 28
+  - Total data usage (MB): 1033.2
+
+USAGE DATA STATISTICS:
+  - Total usage records: 28
+  - Total data usage (MB): 1090.0
+
+USAGE DATA STATISTICS:
+  - Total usage records: 28
+  - Total data usage (MB): 1279.2
+
+USAGE DATA STATISTICS:
+  - Total usage records: 28
+  - Total data usage (MB): 1320.5
+
+USAGE DATA STATISTICS:
+  - Total usage records: 28
+  - Total data usage (MB): 1398.7
+
+USAGE DATA STATISTICS:
+  - Total usage records: 28
+  - Total data usage (MB): 1511.2
+
+USAGE DATA STATISTICS:
+  - Total usage records: 28
+  - Total data usage (MB): 1530.8
+
+USAGE DATA STATISTICS:
+  - Total usage records: 28
+  - Total data usage (MB): 1765.6
+
+USAGE DATA STATISTICS:
+  - Total usage records: 28
+  - Total data usage (MB): 1829.5
+
+USAGE DATA STATISTICS:
+  - Total usage records: 28
+  - Total data usage (MB): 1916.9
+
+USAGE DATA STATISTICS:
+  - Total usage records: 28
+  - Total data usage (MB): 1989.0
+
+USAGE DATA STATISTICS:
+  - Total usage records: 28
+  - Total data usage (MB): 2020.2
+
+USAGE DATA STATISTICS:
+  - Total usage records: 28
+  - Total data usage (MB): 2196.5
+
+USAGE DATA STATISTICS:
+  - Total usage records: 28
+  - Total data usage (MB): 2291.2
+
+USAGE DATA STATISTICS:
+  - Total usage records: 28
+  - Total data usage (MB): 2337.0
+
+USAGE DATA STATISTICS:
+  - Total usage records: 28
+  - Total data usage (MB): 2455.6
+
+USAGE DATA STATISTICS:
+  - Total usage records: 28
+  - Total data usage (MB): 2478.0
+
+BILLING DATA STATISTICS:
+  - Customers with billing: 25
+  - Total revenue: 4022.55
+
+PROCESSING SUMMARY:
+  - Script: telecom_etl_pipeline (Python version)
+  - Status: SUCCESS
+  - Report generated at: 2025-11-14 17:02:25.381530

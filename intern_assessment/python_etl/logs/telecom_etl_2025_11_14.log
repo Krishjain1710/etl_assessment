@@ -1,0 +1,118 @@
+[2025-11-14 13:17:03] [INFO] Starting Python ETL pipeline
+[2025-11-14 13:17:03] [INFO] ETL pipeline completed
+[2025-11-14 13:20:50] [INFO] Starting Python ETL pipeline
+[2025-11-14 13:20:50] [INFO] Validating input files...
+[2025-11-14 13:20:50] [ERROR] Required file not found: /home/krish/etl_assessment/intern_assessment/python_etl/sample_data/customer_data.csv
+[2025-11-14 13:21:58] [INFO] Starting Python ETL pipeline
+[2025-11-14 13:21:58] [INFO] Validating input files...
+[2025-11-14 13:21:58] [INFO] Validated file: /home/krish/etl_assessment/intern_assessment/python_etl/sample_data/customer_data.csv
+[2025-11-14 13:21:58] [ERROR] Required file not found: /home/krish/etl_assessment/intern_assessment/python_etl/sample_data/usage_data.txt
+[2025-11-14 13:23:01] [INFO] Starting Python ETL pipeline
+[2025-11-14 13:23:01] [INFO] Validating input files...
+[2025-11-14 13:23:01] [INFO] Validated file: /home/krish/etl_assessment/intern_assessment/python_etl/sample_data/customer_data.csv
+[2025-11-14 13:23:01] [INFO] Validated file: /home/krish/etl_assessment/intern_assessment/python_etl/sample_data/usage_data.txt
+[2025-11-14 13:23:01] [ERROR] Required file not found: /home/krish/etl_assessment/intern_assessment/python_etl/sample_data/billing_records.txt
+[2025-11-14 13:23:20] [INFO] Starting Python ETL pipeline
+[2025-11-14 13:23:20] [INFO] Validating input files...
+[2025-11-14 13:23:20] [INFO] Validated file: /home/krish/etl_assessment/intern_assessment/python_etl/sample_data/customer_data.csv
+[2025-11-14 13:23:20] [INFO] Validated file: /home/krish/etl_assessment/intern_assessment/python_etl/sample_data/usage_data.txt
+[2025-11-14 13:23:20] [INFO] Validated file: /home/krish/etl_assessment/intern_assessment/python_etl/sample_data/billing_records.txt
+[2025-11-14 13:23:20] [INFO] All input files validated successfully
+[2025-11-14 13:23:20] [INFO] Starting customer data cleaning process
+[2025-11-14 13:23:20] [INFO] Customer data cleaning completed - Input: 20, Output: 19, Rejected: 1
+[2025-11-14 13:23:20] [INFO] Starting usage data deduplication
+[2025-11-14 13:23:20] [INFO] Deduplication completed - Removed 2 duplicates
+[2025-11-14 13:23:20] [INFO] Final usage records: 29
+[2025-11-14 13:23:20] [INFO] Starting billing data aggregation
+[2025-11-14 13:23:20] [INFO] Billing aggregation completed for 25 customers
+[2025-11-14 13:23:20] [INFO] ETL pipeline completed
+[2025-11-14 13:24:25] [INFO] Starting Python ETL pipeline
+[2025-11-14 13:24:25] [INFO] Validating input files...
+[2025-11-14 13:24:25] [INFO] Validated file: /home/krish/etl_assessment/intern_assessment/python_etl/sample_data/customer_data.csv
+[2025-11-14 13:24:25] [INFO] Validated file: /home/krish/etl_assessment/intern_assessment/python_etl/sample_data/usage_data.txt
+[2025-11-14 13:24:25] [INFO] Validated file: /home/krish/etl_assessment/intern_assessment/python_etl/sample_data/billing_records.txt
+[2025-11-14 13:24:25] [INFO] All input files validated successfully
+[2025-11-14 13:24:25] [INFO] Starting customer data cleaning process
+[2025-11-14 13:24:25] [INFO] Customer data cleaning completed - Input: 20, Output: 19, Rejected: 1
+[2025-11-14 13:24:25] [INFO] Starting usage data deduplication
+[2025-11-14 13:24:25] [INFO] Deduplication completed - Removed 2 duplicates
+[2025-11-14 13:24:25] [INFO] Final usage records: 29
+[2025-11-14 13:24:25] [INFO] Starting billing data aggregation
+[2025-11-14 13:24:25] [INFO] Billing aggregation completed for 25 customers
+[2025-11-14 13:24:25] [INFO] ETL pipeline completed
+[2025-11-14 13:24:34] [INFO] Starting Python ETL pipeline
+[2025-11-14 13:24:34] [INFO] Validating input files...
+[2025-11-14 13:24:34] [INFO] Validated file: /home/krish/etl_assessment/intern_assessment/python_etl/sample_data/customer_data.csv
+[2025-11-14 13:24:34] [INFO] Validated file: /home/krish/etl_assessment/intern_assessment/python_etl/sample_data/usage_data.txt
+[2025-11-14 13:24:34] [INFO] Validated file: /home/krish/etl_assessment/intern_assessment/python_etl/sample_data/billing_records.txt
+[2025-11-14 13:24:34] [INFO] All input files validated successfully
+[2025-11-14 13:24:34] [INFO] Starting customer data cleaning process
+[2025-11-14 13:24:34] [INFO] Customer data cleaning completed - Input: 20, Output: 19, Rejected: 1
+[2025-11-14 13:24:34] [INFO] Starting usage data deduplication
+[2025-11-14 13:24:34] [INFO] Deduplication completed - Removed 2 duplicates
+[2025-11-14 13:24:34] [INFO] Final usage records: 29
+[2025-11-14 13:24:34] [INFO] Starting billing data aggregation
+[2025-11-14 13:24:34] [INFO] Billing aggregation completed for 25 customers
+[2025-11-14 13:24:34] [INFO] Creating final consolidated report
+[2025-11-14 13:29:21] [INFO] Starting Python ETL pipeline
+[2025-11-14 13:29:21] [INFO] Validating input files...
+[2025-11-14 13:29:21] [INFO] Validated file: /home/krish/etl_assessment/intern_assessment/python_etl/sample_data/customer_data.csv
+[2025-11-14 13:29:21] [INFO] Validated file: /home/krish/etl_assessment/intern_assessment/python_etl/sample_data/usage_data.txt
+[2025-11-14 13:29:21] [INFO] Validated file: /home/krish/etl_assessment/intern_assessment/python_etl/sample_data/billing_records.txt
+[2025-11-14 13:29:21] [INFO] All input files validated successfully
+[2025-11-14 13:29:21] [INFO] Starting customer data cleaning process
+[2025-11-14 13:29:21] [INFO] Customer data cleaning completed - Input: 20, Output: 19, Rejected: 1
+[2025-11-14 13:29:21] [INFO] Starting usage data deduplication
+[2025-11-14 13:29:21] [INFO] Deduplication completed - Removed 2 duplicates
+[2025-11-14 13:29:21] [INFO] Final usage records: 29
+[2025-11-14 13:29:21] [INFO] Starting billing data aggregation
+[2025-11-14 13:29:21] [INFO] Billing aggregation completed for 25 customers
+[2025-11-14 13:29:21] [INFO] Creating final consolidated report
+[2025-11-14 13:29:29] [INFO] Starting Python ETL pipeline
+[2025-11-14 13:29:29] [INFO] Validating input files...
+[2025-11-14 13:29:29] [INFO] Validated file: /home/krish/etl_assessment/intern_assessment/python_etl/sample_data/customer_data.csv
+[2025-11-14 13:29:29] [INFO] Validated file: /home/krish/etl_assessment/intern_assessment/python_etl/sample_data/usage_data.txt
+[2025-11-14 13:29:29] [INFO] Validated file: /home/krish/etl_assessment/intern_assessment/python_etl/sample_data/billing_records.txt
+[2025-11-14 13:29:29] [INFO] All input files validated successfully
+[2025-11-14 13:29:29] [INFO] Starting customer data cleaning process
+[2025-11-14 13:29:29] [INFO] Customer data cleaning completed - Input: 20, Output: 19, Rejected: 1
+[2025-11-14 13:29:29] [INFO] Starting usage data deduplication
+[2025-11-14 13:29:29] [INFO] Deduplication completed - Removed 2 duplicates
+[2025-11-14 13:29:29] [INFO] Final usage records: 29
+[2025-11-14 13:29:29] [INFO] Starting billing data aggregation
+[2025-11-14 13:29:29] [INFO] Billing aggregation completed for 25 customers
+[2025-11-14 13:29:29] [INFO] Creating final consolidated report
+[2025-11-14 13:29:29] [INFO] Final report created: /home/krish/etl_assessment/intern_assessment/python_etl/output/telecom_daily_report_20251114.txt
+[2025-11-14 13:29:29] [INFO] ETL pipeline completed
+[2025-11-14 13:54:45] [INFO] Starting Python ETL pipeline
+[2025-11-14 13:54:45] [INFO] Validating input files...
+[2025-11-14 13:54:45] [INFO] Validated file: /home/krish/etl_assessment/intern_assessment/python_etl/sample_data/customer_data.csv
+[2025-11-14 13:54:45] [INFO] Validated file: /home/krish/etl_assessment/intern_assessment/python_etl/sample_data/usage_data.txt
+[2025-11-14 13:54:45] [INFO] Validated file: /home/krish/etl_assessment/intern_assessment/python_etl/sample_data/billing_records.txt
+[2025-11-14 13:54:45] [INFO] All input files validated successfully
+[2025-11-14 13:54:45] [INFO] Starting customer data cleaning process
+[2025-11-14 13:54:45] [INFO] Customer data cleaning completed - Input: 20, Output: 19, Rejected: 1
+[2025-11-14 13:54:45] [INFO] Starting usage data deduplication
+[2025-11-14 13:54:45] [INFO] Deduplication completed - Removed 2 duplicates
+[2025-11-14 13:54:45] [INFO] Final usage records: 29
+[2025-11-14 13:54:45] [INFO] Starting billing data aggregation
+[2025-11-14 13:54:45] [INFO] Billing aggregation completed for 25 customers
+[2025-11-14 13:54:45] [INFO] Creating final consolidated report
+[2025-11-14 13:54:45] [INFO] Final report created: /home/krish/etl_assessment/intern_assessment/python_etl/output/telecom_daily_report_20251114.txt
+[2025-11-14 13:54:45] [INFO] ETL pipeline completed
+[2025-11-14 17:02:25] [INFO] Starting Python ETL pipeline
+[2025-11-14 17:02:25] [INFO] Validating input files...
+[2025-11-14 17:02:25] [INFO] Validated file: /home/krish/etl_assessment/intern_assessment/python_etl/sample_data/customer_data.csv
+[2025-11-14 17:02:25] [INFO] Validated file: /home/krish/etl_assessment/intern_assessment/python_etl/sample_data/usage_data.txt
+[2025-11-14 17:02:25] [INFO] Validated file: /home/krish/etl_assessment/intern_assessment/python_etl/sample_data/billing_records.txt
+[2025-11-14 17:02:25] [INFO] All input files validated successfully
+[2025-11-14 17:02:25] [INFO] Starting customer data cleaning process
+[2025-11-14 17:02:25] [INFO] Customer data cleaning completed - Input: 20, Output: 19, Rejected: 1
+[2025-11-14 17:02:25] [INFO] Starting usage data deduplication
+[2025-11-14 17:02:25] [INFO] Deduplication completed - Removed 2 duplicates
+[2025-11-14 17:02:25] [INFO] Final usage records: 29
+[2025-11-14 17:02:25] [INFO] Starting billing data aggregation
+[2025-11-14 17:02:25] [INFO] Billing aggregation completed for 25 customers
+[2025-11-14 17:02:25] [INFO] Creating final consolidated report
+[2025-11-14 17:02:25] [INFO] Final report created: /home/krish/etl_assessment/intern_assessment/python_etl/output/telecom_daily_report_20251114.txt
+[2025-11-14 17:02:25] [INFO] ETL pipeline completed

@@ -1,0 +1,30 @@
+[2025-11-14 13:58:31] [INFO] Command received: validate
+[2025-11-14 13:58:31] [INFO] Validating input files...
+[2025-11-14 13:58:31] [INFO] Validated file: /home/krish/etl_assessment/intern_assessment/python_etl/sample_data/customer_data.csv
+[2025-11-14 13:58:31] [INFO] Validated file: /home/krish/etl_assessment/intern_assessment/python_etl/sample_data/usage_data.txt
+[2025-11-14 13:58:31] [INFO] Validated file: /home/krish/etl_assessment/intern_assessment/python_etl/sample_data/billing_records.txt
+[2025-11-14 13:58:31] [INFO] All input files validated successfully
+[2025-11-14 13:58:31] [INFO] Command received: clean_customers
+[2025-11-14 13:58:31] [INFO] Starting customer data cleaning process
+[2025-11-14 13:58:31] [INFO] Customer data cleaning completed - Input: 20, Output: 18, Rejected: 2
+[2025-11-14 13:58:31] [INFO] Command received: dedupe_usage
+[2025-11-14 13:58:31] [INFO] Starting usage data deduplication
+[2025-11-14 13:58:31] [INFO] Deduplication completed - Removed 2 duplicates
+[2025-11-14 13:58:31] [INFO] Final usage records: 28
+[2025-11-14 13:58:31] [INFO] Command received: aggregate_billing
+[2025-11-14 13:58:31] [INFO] Starting billing data aggregation
+[2025-11-14 13:58:31] [INFO] Command received: final_report
+[2025-11-14 13:58:31] [INFO] Creating final consolidated report
+[2025-11-14 13:58:31] [INFO] Final report created: /home/krish/etl_assessment/intern_assessment/python_etl/output/telecom_daily_report_20251114.txt
+[2025-11-14 13:58:31] [INFO] Command received: run_all
+[2025-11-14 13:58:31] [INFO] Validating input files...
+[2025-11-14 13:58:31] [INFO] Validated file: /home/krish/etl_assessment/intern_assessment/python_etl/sample_data/customer_data.csv
+[2025-11-14 13:58:31] [INFO] Validated file: /home/krish/etl_assessment/intern_assessment/python_etl/sample_data/usage_data.txt
+[2025-11-14 13:58:31] [INFO] Validated file: /home/krish/etl_assessment/intern_assessment/python_etl/sample_data/billing_records.txt
+[2025-11-14 13:58:31] [INFO] All input files validated successfully
+[2025-11-14 13:58:31] [INFO] Starting customer data cleaning process
+[2025-11-14 13:58:31] [INFO] Customer data cleaning completed - Input: 20, Output: 18, Rejected: 2
+[2025-11-14 13:58:31] [INFO] Starting usage data deduplication
+[2025-11-14 13:58:31] [INFO] Deduplication completed - Removed 2 duplicates
+[2025-11-14 13:58:31] [INFO] Final usage records: 28
+[2025-11-14 13:58:31] [INFO] Starting billing data aggregation

@@ -1,0 +1,2 @@
+customer_id,name,phone,email,registration_date,status,credit_limit
+C008,Frank Miller,777777777a,frank.miller@email.com,20240108,ACTIVE,1100.00

@@ -1,0 +1,21 @@
+customer_id,name,phone,email,registration_date,status,credit_limit
+C001,John Smith,9876543210,john.smith@email.com,20240101,ACTIVE,1000.00
+C002,Jane Doe,,jane.doe@email.com,20240102,ACTIVE,1500.00
+C003,Bob Johnson,1234567890,NULL,20240103,INACTIVE,500.00
+C004,Alice Brown,NULL,alice.brown@email.com,20240104,ACTIVE,2000.00
+C005,Charlie Wilson,5555555555,charlie@email.com,,ACTIVE,750.00
+C006,Diana Prince,9999999999,diana.prince@email.com,20240106,PENDING,1250.00
+C007,NULL,8888888888,unknown@email.com,20240107,ACTIVE,800.00
+C008,Frank Miller,777777777a,frank.miller@email.com,20240108,ACTIVE,1100.00
+C009,Grace Lee,7777777777,,20240109,ACTIVE,900.00
+C010,Henry Ford,6666666666,henry.ford@email.com,20240110,INACTIVE,NULL
+C011,Ivy Chen,5555555555,ivy.chen@email.com,20240111,ACTIVE,1300.00
+C012,Jack Taylor,4444444444,jack.taylor@email.com,20240112,ACTIVE,1600.00
+C013,Kate Williams,3333333333,kate.williams@email.com,20240113,ACTIVE,700.00
+C014,Liam Davis,2222222222,NULL,20240114,PENDING,950.00
+C015,Mia Johnson,1111111111,mia.johnson@email.com,20240115,ACTIVE,1800.00
+C016,Noah Brown,9876543210,noah.brown@email.com,20240116,ACTIVE,1400.00
+C017,Olivia Smith,8765432109,olivia.smith@email.com,20240117,INACTIVE,600.00
+C018,Paul Jones,7654321098,paul.jones@email.com,NULL,ACTIVE,1200.00
+C019,,6543210987,unknown2@email.com,20240119,ACTIVE,850.00
+C020,Quinn Adams,5432109876,quinn.adams@email.com,20240120,ACTIVE,1700.00
